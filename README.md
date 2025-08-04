@@ -1,12 +1,9 @@
-<h1 align="center">Olá, eu sou a Sibele 👩‍💻</h1>
+<h1 align="center">Sibele Lino Caetano </h1>
 
 <p align="center">
-  Estudante de <strong>Desenvolvimento Fullstack</strong>, em transição de carreira, com raízes no Serviço Social e um olhar sensível para resolver problemas reais através da tecnologia.
-</p>
-
-<p align="center">
-  💡 Crio com <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>React</strong> e <strong>Node.js</strong><br/>
-  🎯 Busco unir propósito, acessibilidade e boas experiências em cada linha de código.
+<p>Profissional em transição para a área de tecnologia, atualmente me especializando em <strong>Desenvolvimento Fullstack e Análise e Desenvolvimento de Sistemas</strong>.
+<p>Tenho como foco a criação de interfaces acessíveis, código limpo e soluções que geram valor real para pessoas e negócios. </p>
+<p>Busco minha primeira oportunidade na área de tecnologia para aplicar meus conhecimentos em projetos desafiadores, aprender continuamente e contribuir ativamente com a equipe. 👩‍💻</p>
 </p>
 
 ---
@@ -27,8 +24,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sibele-dev&show_icons=true&theme=midnight-purple&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sibele-dev&layout=compact&theme=midnight-purple&hide_border=true" height="150"/>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=sibelecaetano&theme=omni&show_icons=true&hide_border=false&count_private=true" height="150"/></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibelecaetano&theme=omni&show_icons=true&hide_border=false&layout=compact" height="150"/></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sibelecaetano&theme=omni&hide_border=false" height="150"/></p>
 </div>
 
 ---
