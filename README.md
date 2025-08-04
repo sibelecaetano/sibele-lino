@@ -1,55 +1,49 @@
-<hr>
-<h2 align="center">Olá! Meu nome é Sibele e sou estudante de Desenvolvimento Fullstack</h2>
+<h1 align="center">Olá, eu sou a Sibele 👩‍💻</h1>
 
-###
+<p align="center">
+  Estudante de <strong>Desenvolvimento Fullstack</strong>, em transição de carreira, com raízes no Serviço Social e um olhar sensível para resolver problemas reais através da tecnologia.
+</p>
 
-<br clear="both">
+<p align="center">
+  💡 Crio com <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>React</strong> e <strong>Node.js</strong><br/>
+  🎯 Busco unir propósito, acessibilidade e boas experiências em cada linha de código.
+</p>
 
-<p align="center">Sou desenvolvedora em transição de carreira, com raízes no serviço social e um olhar sensível para problemas reais. Estudo e crio com HTML, CSS, JavaScript, React e Node.js, buscando unir propósito, acessibilidade e boas experiências em cada linha de código.</p>
+---
 
-###
-
-
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sibele-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sibele-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
+### 🚀 Tecnologias que uso:
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
 </div>
 
-###
+---
 
-<br clear="both">
+### 📊 GitHub Stats
 
-<img align="left" height="150" src="https://i.gifer.com/6VTM.gif"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sibele-dev&show_icons=true&theme=midnight-purple&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sibele-dev&layout=compact&theme=midnight-purple&hide_border=true" height="150"/>
+</div>
 
-###
+---
 
-<br clear="both">
+### 📫 Contato
 
-<div align="right">
-  <a href="sibelecaetano7@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
+<div align="center">
+  <a href="mailto:sibelecaetano7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="25"/>
   </a>
   <a href="https://www.linkedin.com/in/sibelecaetano/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="25"/>
+  </a>
+</div>
+
   </a>
 </div>
 
